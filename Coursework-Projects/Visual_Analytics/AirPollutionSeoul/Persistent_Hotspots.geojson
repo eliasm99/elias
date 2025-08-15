@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Station code": 101, "Latitude": 37.5720164, "Longitude": 127.0050075, "Hotspot_Frequency": 754 }, "geometry": { "type": "Point", "coordinates": [ 127.0050075, 37.5720164 ] } },
+{ "type": "Feature", "properties": { "Station code": 102, "Latitude": 37.5642629, "Longitude": 126.9746757, "Hotspot_Frequency": 328 }, "geometry": { "type": "Point", "coordinates": [ 126.9746757, 37.5642629 ] } },
+{ "type": "Feature", "properties": { "Station code": 103, "Latitude": 37.5400327, "Longitude": 127.00485, "Hotspot_Frequency": 545 }, "geometry": { "type": "Point", "coordinates": [ 127.00485, 37.540032700000012 ] } },
+{ "type": "Feature", "properties": { "Station code": 104, "Latitude": 37.6098232, "Longitude": 126.9348476, "Hotspot_Frequency": 910 }, "geometry": { "type": "Point", "coordinates": [ 126.9348476, 37.6098232 ] } },
+{ "type": "Feature", "properties": { "Station code": 105, "Latitude": 37.5937421, "Longitude": 126.9496787, "Hotspot_Frequency": 798 }, "geometry": { "type": "Point", "coordinates": [ 126.9496787, 37.5937421 ] } },
+{ "type": "Feature", "properties": { "Station code": 106, "Latitude": 37.5555803, "Longitude": 126.9055975, "Hotspot_Frequency": 708 }, "geometry": { "type": "Point", "coordinates": [ 126.9055975, 37.5555803 ] } },
+{ "type": "Feature", "properties": { "Station code": 107, "Latitude": 37.5418642, "Longitude": 127.0496589, "Hotspot_Frequency": 867 }, "geometry": { "type": "Point", "coordinates": [ 127.0496589, 37.5418642 ] } },
+{ "type": "Feature", "properties": { "Station code": 108, "Latitude": 37.5471803, "Longitude": 127.0924929, "Hotspot_Frequency": 853 }, "geometry": { "type": "Point", "coordinates": [ 127.0924929, 37.5471803 ] } },
+{ "type": "Feature", "properties": { "Station code": 109, "Latitude": 37.5757428, "Longitude": 127.0288848, "Hotspot_Frequency": 504 }, "geometry": { "type": "Point", "coordinates": [ 127.0288848, 37.5757428 ] } },
+{ "type": "Feature", "properties": { "Station code": 110, "Latitude": 37.5848485, "Longitude": 127.0940229, "Hotspot_Frequency": 742 }, "geometry": { "type": "Point", "coordinates": [ 127.0940229, 37.5848485 ] } },
+{ "type": "Feature", "properties": { "Station code": 111, "Latitude": 37.6067189, "Longitude": 127.0272794, "Hotspot_Frequency": 807 }, "geometry": { "type": "Point", "coordinates": [ 127.0272794, 37.6067189 ] } },
+{ "type": "Feature", "properties": { "Station code": 112, "Latitude": 37.6479299, "Longitude": 127.0119518, "Hotspot_Frequency": 1100 }, "geometry": { "type": "Point", "coordinates": [ 127.0119518, 37.6479299 ] } },
+{ "type": "Feature", "properties": { "Station code": 113, "Latitude": 37.6541919, "Longitude": 127.0290879, "Hotspot_Frequency": 857 }, "geometry": { "type": "Point", "coordinates": [ 127.0290879, 37.6541919 ] } },
+{ "type": "Feature", "properties": { "Station code": 114, "Latitude": 37.6587743, "Longitude": 127.0685054, "Hotspot_Frequency": 448 }, "geometry": { "type": "Point", "coordinates": [ 127.0685054, 37.6587743 ] } },
+{ "type": "Feature", "properties": { "Station code": 115, "Latitude": 37.5259388, "Longitude": 126.8566029, "Hotspot_Frequency": 781 }, "geometry": { "type": "Point", "coordinates": [ 126.8566029, 37.5259388 ] } },
+{ "type": "Feature", "properties": { "Station code": 116, "Latitude": 37.54464, "Longitude": 126.8351506, "Hotspot_Frequency": 378 }, "geometry": { "type": "Point", "coordinates": [ 126.8351506, 37.54464 ] } },
+{ "type": "Feature", "properties": { "Station code": 117, "Latitude": 37.4984981, "Longitude": 126.8896924, "Hotspot_Frequency": 689 }, "geometry": { "type": "Point", "coordinates": [ 126.889692400000015, 37.4984981 ] } },
+{ "type": "Feature", "properties": { "Station code": 118, "Latitude": 37.4523569, "Longitude": 126.9082956, "Hotspot_Frequency": 763 }, "geometry": { "type": "Point", "coordinates": [ 126.9082956, 37.4523569 ] } },
+{ "type": "Feature", "properties": { "Station code": 119, "Latitude": 37.5250065, "Longitude": 126.8973705, "Hotspot_Frequency": 860 }, "geometry": { "type": "Point", "coordinates": [ 126.8973705, 37.5250065 ] } },
+{ "type": "Feature", "properties": { "Station code": 120, "Latitude": 37.4809167, "Longitude": 126.9714807, "Hotspot_Frequency": 700 }, "geometry": { "type": "Point", "coordinates": [ 126.9714807, 37.4809167 ] } },
+{ "type": "Feature", "properties": { "Station code": 121, "Latitude": 37.4873546, "Longitude": 126.927102, "Hotspot_Frequency": 1029 }, "geometry": { "type": "Point", "coordinates": [ 126.927102, 37.4873546 ] } },
+{ "type": "Feature", "properties": { "Station code": 122, "Latitude": 37.5045471, "Longitude": 126.9944578, "Hotspot_Frequency": 475 }, "geometry": { "type": "Point", "coordinates": [ 126.9944578, 37.5045471 ] } },
+{ "type": "Feature", "properties": { "Station code": 123, "Latitude": 37.5175282, "Longitude": 127.0474699, "Hotspot_Frequency": 535 }, "geometry": { "type": "Point", "coordinates": [ 127.0474699, 37.5175282 ] } },
+{ "type": "Feature", "properties": { "Station code": 124, "Latitude": 37.5026857, "Longitude": 127.0925092, "Hotspot_Frequency": 565 }, "geometry": { "type": "Point", "coordinates": [ 127.0925092, 37.5026857 ] } },
+{ "type": "Feature", "properties": { "Station code": 125, "Latitude": 37.5449625, "Longitude": 127.1367917, "Hotspot_Frequency": 592 }, "geometry": { "type": "Point", "coordinates": [ 127.136791700000018, 37.5449625 ] } }
+]
+}
